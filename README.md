@@ -1,4 +1,4 @@
-# hello-world
+# Hello-World
 Trial: Learning by yourself
 
 ## Introduction
@@ -11,14 +11,16 @@ I don't like coding at all but I have to master the skill which is required as n
 
 ## Review
 ### 1st Week
-### 2nd Week Tutorial: GitHub Guides. 
+### 2nd Week 
+Tutorial: GitHub Guides. 
 * Create a new repository
-  * hello world repository
+  * Hello World repository
 * Create a new branch
   * readme-edits
 * Make and commit changes
 * Open a Pull Request
 * Merge your Pull Request
-### Now it is the 3rd Week! Continued.
+### 3rd Week
+It is Continued.
 
 
