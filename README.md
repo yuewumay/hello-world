@@ -58,4 +58,5 @@ Branch name should be descriptive so that others can see what is being worked on
 
 ### Problems
 * Quotes
-
+![Quotes1](https://github.com/yuewumay/hello-world/blob/master/Quotes1.png)
+![Quotes2](https://github.com/yuewumay/hello-world/blob/master/Quotes2.png)
