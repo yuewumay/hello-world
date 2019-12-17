@@ -51,9 +51,12 @@ I don't like coding at all but I have to master the skill which is required as n
 
 Objectives   | Progress
 ------------ | -------------
-- [x] 熟练掌握Markdown | 尝试使用Text; Lists; Images; Headers & Quotes; Code; Table
+- [x] 熟练掌握Markdown | 尝试使用Text
 - [ ] 寻找并使用能编辑Markdown的编辑器 | Content in the second column
-- [x] Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Request
+- [x] Git和GitHub基本使用 | 能提交代码
+
+; Lists; Images; Headers & Quotes; Code; Table
+; 能提交Issue; 能提交Pull Request
 
 ### 4th Week
 1. Tutorial: 
