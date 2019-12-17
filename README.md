@@ -7,7 +7,7 @@ Hi Humans!
 I don't like coding at all but I have to master the skill which is required as necessary for a so-called "qualified" PhD candidate on the job market. That's why I am here. Honestly speaking, it is not out of **love** though,  please rest assured that I will commit to the learning process since I am **determined** and **persistent** once I have decided. Finally, I would like to share one of my favorite quotes with you from the acknowledged novel **The Shawshank Redemption**, which has been adapted to a well-known movie, that is:
 
 > Hope is a good thing, maybe the best of things, and no good thing ever dies. - Stephen Edwin King
-> ~~ - Stephen Edwin King ~~
+> ~~- Stephen Edwin King~~
 
 
 ## Review
@@ -44,6 +44,13 @@ I don't like coding at all but I have to master the skill which is required as n
   * 完整把远程库下载到本地
   * 创建origin地址别名
   * 初始化本地库
+* 可以实现本地修改，提交到本地库: git add 和 git commit
+* 接受邀请，成为团队collaborator
+* 可以实现本地修改提交到远程库: git push
+* 拉取:
+  * fetch: git fetch
+  * merge: git merge
+  * 若修改比较简单，可以直接使用 git pull 合并两步操作
 
 4. Codes for basic set-up:
 ```javascript
@@ -61,8 +68,8 @@ $ git config user.email goodmorning_pro@may.com
 $ git config --global user.name may_glb
 $ git config --global user.email goodmorning_glb@may.com
 $ git status 看工作区、暂存区、本地库状态
-$ vim good.txt 使用vim编辑器创建一个txt文件（这一步如何使用其它编辑器？）
-$ git status 这一次查看，相比前次，出现了有待tracked的文件,但还没有放到暂存区
+$ vim good.txt 使用vim编辑器创建一个txt文件 **（这一步如何使用其它编辑器？）**
+$ git status 这一次查看，相比前次，出现了有待tracked的文件，但还没有放到暂存区
 $ git add good.txt 
 $ git status 这一次查看，相比前次，将文件添加到暂存区
 $ git commit -m "Commit Message" good.txt 提交到本地库；已经tracked的文件，可以直接commit,但直接commit就不可撤销了;可被commit的文件显示绿色
@@ -74,7 +81,13 @@ $ git push origin master 这句命令 + 远程库别名 + 指定需要推送的�
 $ cd .. 先退出原来的工作目录
 $ mkdir Herlearning 新建一个本地工作目录
 $ cd Herlearning/ 进入此新目录
-$ git clone 
+$ git clone https://github.com/yuewumay/hello-world.git  这句命令 + 远程库地址，完成了从远程到本地的克隆
+$ pwd 查看现在位于什么地方
+$ cd ../../Mylearning 先退出目前的工作目录，再进入最初的工作目录
+$ git fetch origin master 只是把远程的内容下载到本地，并未更改本地工作区的文件
+$ git checkout origin/master 看一看下载下来的东西在哪里，长什么样子
+$ git checkout master 再切换回去；看好下载更新的文件之后，再去做合并
+$ git merge origin/master 把远程的master合并到本地的master；合并完成后本地就有更新的内容了
 ```
 
 ### 2nd Week 
