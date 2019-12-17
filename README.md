@@ -133,7 +133,7 @@ Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Reques
 
 ### 4th Week
 1. Task: 
-- [] Catch up with the updates in Repository
+- [ ] Catch up with the updates in Repository
 
 
 ### Problems
