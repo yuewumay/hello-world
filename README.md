@@ -9,6 +9,9 @@ I don't like coding at all but I have to master the skill which is required as n
 > Hope is a good thing, maybe the best of things, and no good thing ever dies.
 > - Stephen Edwin King
 
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+
 ## Review
 ### 1st Week
 1. Tutorial:
