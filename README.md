@@ -14,7 +14,7 @@ I don't like coding at all but I have to master the skill which is required as n
 Tutorial:
 * Guides at bilibili: [Introduction to GitHub](https://www.bilibili.com/video/av24441039)
 * Guides at GitHub: Mastering [Markdown](https://guides.github.com/features/mastering-markdown/)
-Markdown can be used in most places around GitHub like Comments in Issues and Pull Requests and Files with the `.md` or `.markdown` exension.
+Markdown can be used in most places around GitHub like Comments in Issues and Pull Requests and Files with the `.md` or `.markdown` exension.  
 
 
 
