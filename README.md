@@ -48,6 +48,7 @@ I don't like coding at all but I have to master the skill which is required as n
 
 ### 3rd Week
 1. Task:
+
 Objectives   | Progress
 ------------ | -------------
 - [x] 熟练掌握Markdown | 尝试使用Text; Lists; Images; Headers & Quotes; Code; Table
