@@ -48,16 +48,11 @@ I don't like coding at all but I have to master the skill which is required as n
 
 ### 3rd Week
 1. Task:
-Objectives | Progress
----------- | --------
-- [x] 熟练掌握Markdown | 尝试使用Text; Lists; Images; Headers & Quotes; Code; Table
-- [ ] 寻找并使用能编辑Markdown的编辑器 |
-- [x] Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Request
-
-First Header | Second Header
+Objectives   | Progress
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+- [x] 熟练掌握Markdown | 尝试使用Text; Lists; Images; Headers & Quotes; Code; Table
+- [ ] 寻找并使用能编辑Markdown的编辑器 | Content in the second column
+- [x] Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Request
 
 ### 4th Week
 1. Tutorial: 
