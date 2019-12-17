@@ -120,14 +120,20 @@ $ git merge origin/master 把远程的master合并到本地的master；合并完
 ### 3rd Week
 1. Task:
 
-Objectives   | Progress
+Objectives   | Progress (All done)
 ------------ | -------------
 熟练掌握Markdown | 尝试使用Text; Lists; Images; Headers & Quotes; Code; Table
-寻找并使用能编辑Markdown的编辑器 | Content in the second column
+寻找并使用能编辑Markdown的编辑器 | Microsoft VS Code
 Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Request
 
+2. Tutorial:
+* 知乎：[主流Markdown编辑器推荐](https://zhuanlan.zhihu.com/p/69210764)
+* 知乎：[使用vscode开始Markdown写作之旅](https://zhuanlan.zhihu.com/p/56943330)
+* Guides at GitHub: [Mastering Issues](https://guides.github.com/features/issues/)
+
 ### 4th Week
-1. Task: Catch up with the updates in Repository
+1. Task: 
+- [] Catch up with the updates in Repository
 
 
 ### Problems
