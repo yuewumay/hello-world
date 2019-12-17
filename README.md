@@ -54,6 +54,11 @@ Objectives | Progress
 - [ ] 寻找并使用能编辑Markdown的编辑器 |
 - [x] Git和GitHub基本使用 | 能提交代码; 能提交Issue; 能提交Pull Request
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ### 4th Week
 1. Tutorial: 
 * Guides at GitHub: Understanding the [GitHub flow](https://guides.github.com/introduction/flow/)
